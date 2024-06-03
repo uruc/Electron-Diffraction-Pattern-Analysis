@@ -18,4 +18,5 @@ The second aim is to enhance simulated electron diffraction patterns to make the
 
 This enhancement ensures that simulated patterns closely mimic real data, leading to more accurate results when testing image processing algorithms.
 
-
+## Data Science Methods
+Machine learning, statistical analysis, and image processing are some of the data science techniques that will be used. The project will specifically involve creating a graph model for precise point detection, adding synthetic noise to simulated patterns to make them more resemblant of real data, and testing the effectiveness of the image processing algorithms on actual data.

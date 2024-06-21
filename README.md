@@ -1,4 +1,7 @@
 # Electron Diffraction Pattern Analysis
+
+**[Uruc Tarim](https://github.com/uruc)** 
+
 This repository contains a comprehensive project aimed at improving the analysis of electron diffraction patterns through advanced image processing techniques. The project is divided into two main objectives:
 
 ## Aim 1: Develop a Graph Model for Point Detection
